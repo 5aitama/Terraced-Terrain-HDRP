@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "com.saitama.mathematics": "https://github.com/5aitama/Saitama.Mathematics.git",
+    "com.saitama.proceduralmesh": "https://github.com/5aitama/Saitama.ProceduralMesh.git",
+    "com.saitama.terracedterrain": "https://github.com/5aitama/Saitama.TerracedTerrain.git",
+    "com.unity.collab-proxy": "1.2.16",
+    "com.unity.ide.rider": "1.1.4",
+    "com.unity.ide.vscode": "1.2.0",
+    "com.unity.render-pipelines.high-definition": "7.3.1",
+    "com.unity.rendering.hybrid": "0.5.2-preview.4",
+    "com.unity.test-framework": "1.1.14",
+    "com.unity.textmeshpro": "2.0.1",
+    "com.unity.timeline": "1.2.14",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.cloth": "1.0.0",
+    "com.unity.modules.director": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.terrain": "1.0.0",
+    "com.unity.modules.terrainphysics": "1.0.0",
+    "com.unity.modules.tilemap": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0",
+    "com.unity.modules.unityanalytics": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+    "com.unity.modules.unitywebrequestaudio": "1.0.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",
+    "com.unity.modules.unitywebrequestwww": "1.0.0",
+    "com.unity.modules.vehicles": "1.0.0",
+    "com.unity.modules.video": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.wind": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.saitama.mathematics": {
+      "revision": "HEAD",
+      "hash": "64d873f51b87b5488846b5581cc7e27f2d1065dc"
+    },
+    "com.saitama.proceduralmesh": {
+      "revision": "HEAD",
+      "hash": "8019aef98bb5e281476619e61d0e32b28d9e1882"
+    },
+    "com.saitama.terracedterrain": {
+      "revision": "HEAD",
+      "hash": "6be6c6d75540201db4acb6a7b055a4ca2847a33e"
+    }
+  }
+}
