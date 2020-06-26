@@ -1,6 +1,6 @@
 # Terraced Terrain HDRP
 
-![](./image/Capture.png)
+![](./image/Capture.PNG)
 
 This project use my packages to create a procedural terraced terrain. The goal of this project it's first to test the performance of my packages that this project use and second to test Unity Burst, Jobs, and DOTS techonologies.
 
